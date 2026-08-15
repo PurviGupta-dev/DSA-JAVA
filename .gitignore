@@ -2,3 +2,4 @@ bin/
 *.class
 output.txt
 .DS_Store
+input.txt
