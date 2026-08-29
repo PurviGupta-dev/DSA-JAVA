@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArrayPrpgram3 {
+public class ArrayProgram3 {
 
     public static boolean isSorted(int[] nums) {
         for (int i = 0; i < nums.length - 1; i++) {
